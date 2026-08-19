@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM">
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=aiohttp&logoColor=white" alt="Generative AI">
 </p>
 
 ---
@@ -45,16 +48,13 @@
 | **[Text Generator](https://github.com/karanyadure-rgb/text_generater)** | An AI-powered text generation tool built with Python and API integration. |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanyadure-rgb&show_icons=true&theme=default&count_private=true" alt="Karan's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanyadure-rgb" alt="Karan's GitHub Streak" height="165">
-</p>
-
 ---
-
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karanyadure-rgb" alt="Karan's GitHub Streak" height="165">
+</p>
+---
+---
 ### 📫 Let's Connect
 
 <p align="left">
