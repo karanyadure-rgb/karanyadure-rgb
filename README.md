@@ -54,7 +54,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karanyadure-rgb" alt="Karan's GitHub Streak" height="165">
 </p>
 ---
----
+
 ### 📫 Let's Connect
 
 <p align="left">
